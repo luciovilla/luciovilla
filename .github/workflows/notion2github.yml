@@ -1,0 +1,14 @@
+name: Update README from Notion
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-from-notion:
+    name: Update this repo's README from Notion
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: luciovilla/notion2github@v0.0.2
