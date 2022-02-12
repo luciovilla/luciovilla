@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: luciovilla/notion2github@v0.0.5
-        env:
-          notion_page_id: ${{ secrets.NOTION_PAGE_ID }}
-          notion_token: ${{ secrets.NOTION_TOKEN }}
+      - uses: luciovilla/notion2github@v0.0.6
+        with:
+          notion-page-id: ${{ secrets.NOTION_PAGE_ID }}
+          notion-token: ${{ secrets.NOTION_TOKEN }}
