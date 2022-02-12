@@ -1,9 +1,8 @@
 name: Update README from Notion
 on:
-  schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme-from-notion:
@@ -15,4 +14,3 @@ jobs:
         env:
           notion_page_id: ${{ secrets.NOTION_PAGE_ID }}
           notion_token: ${{ secrets.NOTION_TOKEN }}
-        
