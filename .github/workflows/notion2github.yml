@@ -2,7 +2,7 @@ name: Update README from Notion
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
   # Runs every month on the 1st
     - cron: "0 0 1 * *"
