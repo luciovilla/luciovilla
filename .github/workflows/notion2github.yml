@@ -10,7 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: luciovilla/notion2github@v0.0.9
+      - uses: luciovilla/notion2github@v0.0.10
         with:
+          committer_username: "Lucio 'El Bot' Villa"
+          committer_email: "lucio310@gmail.com"
           notion-page-id: ${{ secrets.NOTION_PAGE_ID }}
           notion-token: ${{ secrets.NOTION_TOKEN }}
