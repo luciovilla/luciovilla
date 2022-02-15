@@ -8,15 +8,15 @@ Currently a Senior Engineer at Vox Media.
 ### My latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tools/Apps I use regularly](https://luciovilla.com/notas/tools-and-apps),
-- [Setting up a Notion powered blog](https://luciovilla.com/notas/notion-powered-blog),
+- [Tools/Apps I use regularly](https://luciovilla.com/notas/tools-and-apps)
+- [Setting up a Notion powered blog](https://luciovilla.com/notas/notion-powered-blog)
 - [My DC Recommendations](https://luciovilla.com/notas/my-dc-recommendations)
 <!-- BLOG-POST-LIST:END -->
 
 ### Currently listening to
 
 <!-- SPOTIFY:START -->
- Solo de Mi - by Bad Bunny on [Spotify](https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx)
+ Not listening to music right now.
 <!-- SPOTIFY:END -->
 
 ---
