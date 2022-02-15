@@ -13,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: luciovilla/notion2github@v0.1.1
-        with:
+      - uses: luciovilla/notion2github@v0.2.0
+        env:
           notion-page-id: ${{ secrets.NOTION_PAGE_ID }}
           notion-token: ${{ secrets.NOTION_TOKEN }}
+          spotify_api: ${{ secrets.SPOTIFY_API }}
+          blog_api: ${{ secrets.BLOG_API }}
