@@ -7,18 +7,11 @@ Currently a Senior Engineer at Vox Media.
 
 ### My latest posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Tools/Apps I use regularly](https://luciovilla.com/notas/tools-and-apps)
 - [Setting up a Notion powered blog](https://luciovilla.com/notas/notion-powered-blog)
 - [My DC Recommendations](https://luciovilla.com/notas/my-dc-recommendations)
-<!-- BLOG-POST-LIST:END -->
 
 ### Currently listening to
 
-<!-- SPOTIFY:START -->
- Not listening to music right now.
-<!-- SPOTIFY:END -->
+Kendrick Lamar's [Mr. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g?si=pc3-CQGdR1Wr0vAuTISwZQ)
 
----
-
-This README file is auto-generated once a month from Notion.
