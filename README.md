@@ -1,15 +1,15 @@
 
 ## Hola!  👋🏽
 
-My name is Lucio, a first-generation Latino, software engineer and web designer. Follow me on Twitter at [@luciovilla](https://twitter.com/luciovilla).
+My name is Lucio, a first-gen Latino from Compton, CA with family roots in Guerrero, Mexico, always working on side web projects. Currently building a custom coding agent, mezcal tracker, Latino music data tools and...
 
 ### My latest posts
 
-- [Tools/Apps I use regularly](https://luciovilla.com/notas/tools-and-apps)
-- [Setting up a Notion powered blog](https://luciovilla.com/notas/notion-powered-blog)
+- [Five Years at The Washington Post](https://www.luciovilla.com/notas/2025-five-years-at-the-washington-post)
+- [Building an Online Multiplayer Lotería Game](https://www.luciovilla.com/notas/2024-building-online-multiplayer-loteria-game)
 - [My DC Recommendations](https://luciovilla.com/notas/my-dc-recommendations)
 
 ### Currently listening to
 
-[Tarot by Bad Bunny](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN?si=a2dc4d1796d24423)
+[BAILE INoLVIDABLE by Bad Bunny](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2?si=ed94a02726524b6a)
 
